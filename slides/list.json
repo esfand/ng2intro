@@ -1,0 +1,37 @@
+[
+    "0-index.md",
+    [
+        {
+            "filename": "1-modern-apps.md",
+            "attr": {
+                
+            }
+        },
+        {
+            "filename": "1-modern-apps.md",
+            "attr": {
+                
+            }
+        }        
+    ],
+    [
+        "2-component-anatomy.md"
+    ],
+    [
+        "3-change-detection.md"
+    ],
+    [
+        "4-optimization.md"
+    ],
+    [
+        "5-architecture.md"
+    ],
+    "6-end.md",
+    
+    {
+        "filename": "test-slide.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
+]
