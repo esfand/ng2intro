@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Angular 2: A Gentle Introdction",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ng2intro",
+    "githubRepository": "ng2intro"
+  }
+}
